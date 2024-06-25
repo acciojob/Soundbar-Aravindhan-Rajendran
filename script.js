@@ -1,6 +1,6 @@
 window.onload = function(){
     let sounds = {
-        applause: new Audio('./sounds/appl.mp3'),
+        applause: new Audio('./sounds/applause.mp3'),
         boo: new Audio('./sounds/boo.mp3'),
         gasp: new Audio('./sounds/gasp.mp3'),
         toda: new Audio('./sounds/toda.mp3'),
