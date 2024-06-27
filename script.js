@@ -36,5 +36,4 @@ document.getElementById("stop").addEventListener('click',function(){
             sounds[sound].pause();
         }
     });
-}
 						  });
