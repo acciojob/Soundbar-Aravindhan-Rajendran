@@ -4,7 +4,7 @@ window.onload = function(){
         boo: new Audio('./sounds/boo.mp3'),
         gasp: new Audio('./sounds/gasp.mp3'),
         toda: new Audio('./sounds/toda.mp3'),
-        victory: new Audio('./sounds/victor.mp3'),
+        victory: new Audio('./sounds/victory.mp3'),
         wrong: new Audio('./sounds/wrong.mp3')
     }
 document.getElementById("applause").addEventListener('click',()=>{ 
